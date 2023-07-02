@@ -1,6 +1,6 @@
 # Request Header Parser Microservice
 
-This is a full stack JavaScript app that serves as a request header parser microservice. It extracts and displays information from the request header of an HTTP request.
+This is a Javascript api that serves as a request header parser microservice. It extracts and displays information from the request header of an HTTP request.
 
 
 ## Features
